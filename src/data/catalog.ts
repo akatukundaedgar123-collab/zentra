@@ -1,0 +1,10 @@
+export const products = [
+  { id:'phone-a35', name:'Nova A35 5G Smartphone', price:1450000, image:'https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=900&q=80', category:'Phones', seller:'Metro Gadgets', rating:4.8, stock:12, description:'A fast, reliable 5G smartphone with a vivid display and all-day battery.' },
+  { id:'sneakers-urban', name:'Urban Everyday Sneakers', price:185000, image:'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80', category:'Fashion', seller:'Kampala Threads', rating:4.7, stock:23, description:'Lightweight everyday sneakers made for comfort and movement.' },
+  { id:'coffee-kit', name:'Uganda Coffee Brewing Kit', price:120000, image:'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=80', category:'Food', seller:'Pearl Roasters', rating:4.9, stock:8, description:'A complete brewing kit featuring premium locally roasted Ugandan coffee.' },
+  { id:'headphones-pro', name:'Studio Wireless Headphones', price:320000, image:'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80', category:'Electronics', seller:'Sound Hub Uganda', rating:4.6, stock:18, description:'Immersive wireless audio with soft cushions and clear microphones.' },
+  { id:'jacket-midnight', name:'Midnight Travel Jacket', price:260000, image:'https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80', category:'Fashion', seller:'Kampala Threads', rating:4.5, stock:4, description:'A versatile weather-resistant jacket for work and travel.' },
+  { id:'watch-classic', name:'Classic Minimal Watch', price:210000, image:'https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80', category:'Accessories', seller:'Modern Essentials', rating:4.8, stock:15, description:'A timeless wristwatch with a precision quartz movement.' }
+]
+
+export const categories = ['Phones','Fashion','Food','Electronics','Accessories','Home & Living','Beauty','Business']
